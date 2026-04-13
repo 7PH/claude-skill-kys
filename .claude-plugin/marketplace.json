@@ -1,0 +1,14 @@
+{
+  "name": "claude-skill-kys",
+  "owner": {
+    "name": "7ph",
+    "url": "https://github.com/7ph"
+  },
+  "plugins": [
+    {
+      "name": "kys",
+      "source": "./",
+      "description": "Tell Claude to kill itself. It will."
+    }
+  ]
+}
